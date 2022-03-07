@@ -1,6 +1,6 @@
 package com.example.ejemplolistview
 
-import android.media.Image
+
 
 class fruta(nombre:String, imagen: Int) {
     var nombre:String = ""
