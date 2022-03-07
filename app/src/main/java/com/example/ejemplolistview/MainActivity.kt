@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var frutas:ArrayList<fruta> = ArrayList()
-        frutas.add(fruta("Manzana", R.drawable.manzana ) )
+        frutas.add(fruta("Manzana", R.drawable.manzana ))
         frutas.add(fruta("Durazno", R.drawable.durazno))
         frutas.add(fruta("Platano", R.drawable.platano))
         frutas.add(fruta("Sandia", R.drawable.sandia))
